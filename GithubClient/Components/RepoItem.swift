@@ -2,7 +2,7 @@
 //  RepoItem.swift
 //  GithubClient
 //
-//  Created by Usuario invitado on 9/7/26.
+//  Created by Joshua Jacome on 9/7/26.
 //
 import SwiftUI
 struct RepoItem: View {
